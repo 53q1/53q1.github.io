@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "飞鸟 • All posts by \"学习\" category",
+    "description": "北海的小窝",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2021/09/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/",
+            "url": "http://example.com/2021/09/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/",
+            "title": "第一篇文章",
+            "date_published": "2021-09-29T11:36:33.000Z",
+            "content_html": "<p>书犹药也。</p>\n",
+            "tags": []
+        }
+    ]
+}

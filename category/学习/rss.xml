@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>飞鸟 • Posts by &#34;学习&#34; category</title>
+        <link>http://example.com</link>
+        <description>北海的小窝</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 29 Sep 2021 19:36:33 +0800</pubDate>
+        <lastBuildDate>Wed, 29 Sep 2021 19:36:33 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/09/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+            <title>第一篇文章</title>
+            <link>http://example.com/2021/09/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+            <pubDate>Wed, 29 Sep 2021 19:36:33 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;书犹药也。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

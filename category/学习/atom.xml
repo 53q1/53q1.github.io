@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>飞鸟 • Posts by &#34;学习&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2021-09-29T11:36:33.000Z</updated>
+    <entry>
+        <id>http://example.com/2021/09/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+        <title>第一篇文章</title>
+        <link rel="alternate" href="http://example.com/2021/09/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;p&gt;书犹药也。&lt;/p&gt;
+</content>
+        <updated>2021-09-29T11:36:33.000Z</updated>
+    </entry>
+</feed>

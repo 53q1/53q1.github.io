@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "飞鸟 • All posts by \"比赛\" category",
+    "description": "北海的小窝",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2021/09/29/2021%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%8D%8E%E4%B8%BA%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%BB%8F%E5%8E%86-1/",
+            "url": "http://example.com/2021/09/29/2021%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%8D%8E%E4%B8%BA%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%BB%8F%E5%8E%86-1/",
+            "title": "2021年下半年华为杯比赛经历<2021.09.29>",
+            "date_published": "2021-09-29T11:40:47.000Z",
+            "content_html": "<p>当然嘎儿跟我说的如果</p>\n",
+            "tags": []
+        }
+    ]
+}
