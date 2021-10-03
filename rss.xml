@@ -5,8 +5,153 @@
         <link>http://example.com</link>
         <description>北海的小窝</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 29 Sep 2021 19:40:47 +0800</pubDate>
-        <lastBuildDate>Wed, 29 Sep 2021 19:40:47 +0800</lastBuildDate>
+        <pubDate>Sun, 03 Oct 2021 18:33:25 +0800</pubDate>
+        <lastBuildDate>Sun, 03 Oct 2021 18:33:25 +0800</lastBuildDate>
+        <category>chrome os</category>
+        <category>fyde os，凤凰os，win7</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/10/03/%E5%87%A0%E7%A7%8D%E8%BD%BB%E9%87%8F%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%8A%98%E8%85%BE/</guid>
+            <title>几种轻量安卓系统的折腾</title>
+            <link>http://example.com/2021/10/03/%E5%87%A0%E7%A7%8D%E8%BD%BB%E9%87%8F%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%8A%98%E8%85%BE/</link>
+            <category>chrome os</category>
+            <category>fyde os，凤凰os，win7</category>
+            <pubDate>Sun, 03 Oct 2021 18:33:25 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;摘要&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#摘要&#34;&gt;#&lt;/a&gt; 摘要&lt;/h2&gt;
+&lt;p&gt;前一段时间在某鱼以 500 米淘换了一台松下电脑，型号松下 AX2，电脑本身可以触屏 + 翻折 360 度，就是用来折腾的，不断试用了 win7，win10，chrome os，fyde os for pc (fyde for you 只能免费用 90 天) 等几个系统，发现国外电脑在某些方面还是要比国产的要好一些，某些方面。&lt;/p&gt;
+&lt;h3 id=&#34;电脑配置介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#电脑配置介绍&#34;&gt;#&lt;/a&gt; 电脑配置介绍&lt;/h3&gt;
+&lt;p&gt;--------[鲁大师]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;软件：                 鲁大师 6.1021.3180.915&lt;br&gt;
+ 时间：                 2021-09-17 23:56:55&lt;br&gt;
+ 软件：                 &lt;a href=&#34;http://www.ludashi.com&#34;&gt;http://www.ludashi.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;--------[概览]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;电脑型号               松下 CF-AX2ADCTS 笔记本电脑&lt;br&gt;
+操作系统               Windows 7 旗舰版 64 位 SP1（DirectX 11）&lt;/p&gt;
+&lt;p&gt;处理器                 英特尔 第三代酷睿 i5-3437U @ 1.90GHz 双核&lt;br&gt;
+主板                   松下 CFAX2-2（QM77 Express 芯片组）&lt;br&gt;
+显卡                   英特尔 HD Graphics 4000 (64 MB / 松下)&lt;br&gt;
+ 内存                   4112 MB (FLASH / 松下 DDR3 1333MHz)&lt;br&gt;
+ 主硬盘                 三星 MZMPC128HBFU-00000 (128 GB / 固态硬盘)&lt;br&gt;
+ 显示器                 MS_9003 (10.1 英寸)&lt;br&gt;
+ 声卡                   英特尔 Panther Point High Definition Audio Controller&lt;br&gt;
+ 网卡                   英特尔 82579LM Gigabit Network Connection / 松下&lt;/p&gt;
+&lt;p&gt;--------[主板]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;主板型号               松下 CFAX2-2&lt;br&gt;
+ 芯片组                 QM77 Express 芯片组&lt;br&gt;
+序列号                 12607774&lt;br&gt;
+ 主板版本               1&lt;br&gt;
+BIOS                   American Megatrends Inc. V2.00L12  /  BIOS 程序发布日期: 02/06/2013&lt;br&gt;
+BIOS 的大小             16384 KB&lt;/p&gt;
+&lt;p&gt;--------[处理器]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;处理器                 英特尔 第三代酷睿 i5-3437U @ 1.90GHz 双核&lt;br&gt;
+速度                   1.90 GHz&lt;br&gt;
+ 处理器数量             核心数：2 / 线程数：4&lt;br&gt;
+ 核心代号               Ivy Bridge&lt;br&gt;
+ 生产工艺               22 nm&lt;br&gt;
+ 插槽 / 插座              FCBGA1023&lt;br&gt;
+ 一级数据缓存           2 x 32 KB, 8-Way, 64 byte lines&lt;br&gt;
+ 一级代码缓存           2 x 32 KB, 8-Way, 64 byte lines&lt;br&gt;
+ 二级缓存               2 x 256 KB, 8-Way, 64 byte lines&lt;br&gt;
+ 三级缓存               3 MB, 12-Way, 64 byte lines&lt;br&gt;
+ 特征                   MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost&lt;/p&gt;
+&lt;p&gt;--------[硬盘]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;产品                   三星  MZMPC128HBFU-00000 (固态硬盘)&lt;br&gt;
+ 大小                   128 GB&lt;br&gt;
+ 固件                   CXM1201Q&lt;br&gt;
+ 接口                   SATA III&lt;br&gt;
+ 数据传输率             600.00 MB / 秒&lt;br&gt;
+特性                   S.M.A.R.T,  48-bit LBA,  NCQ&lt;br&gt;
+ 硬盘已使用             共 4853 次，累计 5642 小时&lt;/p&gt;
+&lt;p&gt;--------[内存]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;Onboard                松下 DDR3 1333MHz 2GB&lt;br&gt;
+ 序列号                 98765000&lt;br&gt;
+ 厂商                   Panasonic&lt;br&gt;
+ 模块位宽               64 bits&lt;/p&gt;
+&lt;p&gt;Onboard                松下 DDR3 1333MHz 2GB&lt;br&gt;
+ 序列号                 98765002&lt;br&gt;
+ 厂商                   Panasonic&lt;br&gt;
+ 模块位宽               64 bits&lt;/p&gt;
+&lt;p&gt;Flash ROM              FLASH 16MB&lt;br&gt;
+ 厂商                   Panasonic&lt;br&gt;
+ 模块位宽               8 bits&lt;/p&gt;
+&lt;p&gt;--------[显卡]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;主显卡                 英特尔 HD Graphics 4000&lt;br&gt;
+ 显存                   64 MB&lt;br&gt;
+ 显卡制造商             松下&lt;br&gt;
+芯片制造商             Intel&lt;br&gt;
+BIOS 版本               Intel Video BIOS&lt;br&gt;
+ 驱动版本               9.18.10.3071&lt;br&gt;
+ 驱动日期               3-19-2013&lt;/p&gt;
+&lt;p&gt;--------[显示器]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;产品                    MS_9003&lt;br&gt;
+ 固件程序日期           2011 年&lt;br&gt;
+屏幕尺寸               10.1 英寸 (22 厘米 x 13 厘米)&lt;br&gt;
+ 显示比例               宽屏 16 : 9&lt;br&gt;
+ 分辨率                 1366 x 768 32 位真彩色&lt;br&gt;
+ Gamma                  3.55&lt;br&gt;
+ 电源管理               Active-Off&lt;/p&gt;
+&lt;p&gt;--------[其他设备]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;网卡                   Intel® 82579LM Gigabit Network Connection&lt;/p&gt;
+&lt;p&gt;网卡                   Intel® Centrino® Advanced-N 6205&lt;/p&gt;
+&lt;p&gt;声卡                   英特尔 Panther Point High Definition Audio Controller&lt;/p&gt;
+&lt;p&gt;键盘                   Japanese PS/2 标准键盘 (106/109 Key)&lt;br&gt;
+ 鼠标                   Synaptics SMBus 触摸板&lt;br&gt;
+鼠标                   HID-compliant 鼠标&lt;/p&gt;
+&lt;p&gt;--------[传感器]----------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;CPU 温度                60℃&lt;br&gt;
+CPU 核心                60℃&lt;br&gt;
+CPU 封装                60℃&lt;br&gt;
+硬盘温度               41℃&lt;/p&gt;
+&lt;h3 id=&#34;win7系统安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#win7系统安装&#34;&gt;#&lt;/a&gt; win7 系统安装&lt;/h3&gt;
+&lt;p&gt;安装过程：略&lt;/p&gt;
+&lt;p&gt;体验感受：用着还可以，我刷的 win7 64 位旗舰版，镜像封装的有 office 2007，自己装了一个 qq 日常办公很可以，ps：其实我之间偷偷安装过 matlab、微信、360、网易云和日常软件，勉强都能用，但是耗电太快了，再加上一个风扇，散热不是很理想。&lt;/p&gt;
+&lt;p&gt;注意：win7 32 位的我安装了两次，用的不同镜像，但是开机直接进入 bios，我怀疑是电脑本身处理器的原因，也有可能是我放 u 盘的两个镜像都坏了。&lt;/p&gt;
+&lt;h3 id=&#34;win10系统安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#win10系统安装&#34;&gt;#&lt;/a&gt; win10 系统安装&lt;/h3&gt;
+&lt;p&gt;安装过程：略&lt;br&gt;
+体验感受：使用可以，我用的 msdn 正常镜像，安装后可能会出现 bug 或者不兼容，网上查询后发现是通病，不过勉强能用。&lt;br&gt;
+注意：兼容问题&lt;/p&gt;
+&lt;h3 id=&#34;fyde-os&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#fyde-os&#34;&gt;#&lt;/a&gt; fyde os&lt;/h3&gt;
+&lt;p&gt;安装过程：第一步：准备一个 8G 以上的 U 盘，接着在 FydeOS 官网下载镜像文件，使用官网推荐的 balenaEtcher (&lt;a href=&#34;https://www.balena.io/etcher/&#34;&gt;https://www.balena.io/etcher/&lt;/a&gt;) 将镜像刻录到 U 盘中；&lt;br&gt;
+第二步：将可录好的 U 盘插入电脑，设置并启动 U 盘，这时我们就会直接进入 U 盘中已经安装好的 Fyde OS。&lt;br&gt;
+第三步：安装（如果想要把 Fyde OS 安装进硬盘，有两种方法，接着往下看吧！）&lt;br&gt;
+方法一：同时按下【Ctrl+Alt+F2】按键（Apple Mac 上需要按下【Fn+Ctrl+Alt+F2】按键），这时系统就会切换到 tty 命令行模式。进入到此界面中，我们就可以通过命令将 Fyde OS 安装进硬盘了。&lt;br&gt;
+方法二：通过设置和启动 U 盘后直接进入系统，稍等片刻我们就可以看到国产定制的 Chrome OS 的默认桌面，接下来点击桌面左下角的开始菜单；在程序列表中点击进入应用商店，找到一个名为【install】一键安装系统到硬盘的程序；在弹出的窗口中，根据自身需求选择【全盘安装】或【多重引导安装】，ps：后者为安装多系统用的，但老毛桃不建议大家安装多系统。这是因为分区不同，在其它系统下会无法读取，显得非常杂乱甚至可能发生误操作而导致 Fyde OS 打不开。安装完毕后，拔掉 U 盘重启电脑即可。&lt;br&gt;
+原文作者：（装机小能手）&lt;br&gt;
+原文链接：（ &lt;a href=&#34;https://zhuanlan.zhihu.com/p/114430681&#34;&gt;https://zhuanlan.zhihu.com/p/114430681&lt;/a&gt; ）&lt;br&gt;
+原文出处：知乎&lt;/p&gt;
+&lt;p&gt;体验感受：fyde os 使用还是很爽的，偶尔会开机打不开第三方安装的软件，一直转圈圈，解决方法：重启或者插上充电器就好了，王者打不开。日常使用风扇呼呼转，但体验不错，窗口可以调节大小很有平板感觉，接下来我会保留并且不断优化这个，作为便携电脑的一部分。&lt;/p&gt;
+&lt;p&gt;注意：fyde 官方帮助文档 https://fydeos.com/help/manual&lt;br&gt;
+fyde os 镜像 https://fydeos.com/download/&lt;br&gt;
+fyde os 多系统配置 https://faq.fydeos.com/recipes/dual-boot/&lt;/p&gt;
+&lt;h3 id=&#34;chrome-os&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#chrome-os&#34;&gt;#&lt;/a&gt; chrome os&lt;/h3&gt;
+&lt;p&gt;单盘安装过程：&lt;a href=&#34;https://post.smzdm.com/p/a5k2zp0x/&#34;&gt;https://post.smzdm.com/p/a5k2zp0x/&lt;/a&gt;&lt;br&gt;
+ 我使用了镜像单独下载加 chrome 插件制作，用下载工具下载镜像容易中间下载断开，狗头。&lt;br&gt;
+1、首先，需要准备一个 U 盘，至少大于 8GB，最好 16GB 的 U 盘。&lt;br&gt;
+2、我们先登录 Chrome OS 的系统下载网站 https://www.neverware.com/freedownload#home-edition-install&lt;br&gt;
+3、安装插件 https://chrome.google.com/webstore/detail/chromebook-recovery-utili/jndclpdbaamdhonoechobihbbiimdgai?hl=en&lt;/p&gt;
+&lt;p&gt;单盘多系统安装过程：&lt;a href=&#34;https://www.bilibili.com/video/BV1Uy4y1e7vv?share_source=copy_web&#34;&gt;https://www.bilibili.com/video/BV1Uy4y1e7vv?share_source=copy_web&lt;/a&gt;&lt;br&gt;
+Win+Ch 涉及的资料：&lt;br&gt;
+安装工具包 + 恢复镜像 + 安装框架网盘版下载：&lt;a href=&#34;https://pan.baidu.com/s/18-6ClA88Gajp99y8TpHJyA&#34;&gt;https://pan.baidu.com/s/18-6ClA88Gajp99y8TpHJyA&lt;/a&gt; 提取码：651i&lt;br&gt;
+ubuntu-mate 下载：&lt;a href=&#34;https://ubuntu-mate.org/download/&#34;&gt;https://ubuntu-mate.org/download/&lt;/a&gt;&lt;br&gt;
+Chrome 恢复镜像下载 1：&lt;a href=&#34;https://cros-updates-serving.appspot.com/&#34;&gt;https://cros-updates-serving.appspot.com/&lt;/a&gt;&lt;br&gt;
+Chrome 恢复镜像下载 2：&lt;a href=&#34;https://cros.tech/&#34;&gt;https://cros.tech/&lt;/a&gt;&lt;br&gt;
+ 转载自 b 站大佬：我是阿皮啊 -&lt;/p&gt;
+&lt;p&gt;体验感受：chromebook 激活后基本上就不需要 v 屁蒽了，重起登录时可以断开网络选择已经激活的帐号离线登录。最终我也没能突破激活界面，只是用了游客模式，完全没能享受到最后的乐趣，激活过程分别尝试了 netshare pro 和 proxy 两种方法，都失败了。&lt;/p&gt;
+&lt;p&gt;netshare pro&lt;br&gt;
+ 需要一台 chrome os 设备两个软件&lt;br&gt;
+软件分别是一个能出去的和手机 app 名为 netshare pro&lt;br&gt;
+ 先把手机扔出去，然后开启 netshare pro 的热点模式，让 chromebook 连接热点激活。&lt;/p&gt;
+&lt;p&gt;proxy&lt;br&gt;
+ 失败&lt;/p&gt;
+&lt;p&gt;注意：chrome 安装了两次，由于本人实在太笨，没耐心了，两次尝试都格式化了整盘，唉，我的 win7. 所以装机有风险。&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
+&lt;p&gt;个人踩坑了很多，安装 win7+win10 双系统的时候，不知道为什么，这个电脑安装后在 pe 中修复引导文件时总会失败，尝试了两次也没成功，花费了一下午，最后安装了 win7 + 凤凰 os+fyde os，个人感觉 fyde os 不错，凤凰 os 最方便。&lt;/p&gt;
+&lt;h2 id=&#34;快捷键&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快捷键&#34;&gt;#&lt;/a&gt; 快捷键&lt;/h2&gt;
+&lt;p&gt;松下 AX2 的快捷键&lt;br&gt;
+ fn+f2 进入 bios&lt;br&gt;
+esc+f5 选择启动项 ps：要首先打开 bios 的 uefi 设置。&lt;/p&gt;
+&lt;h2 id=&#34;最后祝君好运&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#最后祝君好运&#34;&gt;#&lt;/a&gt; 最后，祝君好运。&lt;/h2&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2021/09/29/2021%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%8D%8E%E4%B8%BA%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%BB%8F%E5%8E%86-1/</guid>
             <title>2021年下半年华为杯比赛经历&lt;2021.09.29&gt;</title>
