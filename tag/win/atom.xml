@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>飞鸟 • Posts by &#34;win&#34; tag</title>
+    <link href="http://example.com" />
+    <updated>2021-10-05T09:59:30.000Z</updated>
+    <category term="chrome os" />
+    <category term="fyde os，凤凰os，win7" />
+    <category term="win" />
+    <category term="联想" />
+    <category term="系统兼容" />
+    <category term="装机" />
+    <entry>
+        <id>http://example.com/2021/10/05/%E8%81%94%E6%83%B3G460%E7%94%B5%E8%84%91%E8%A3%85%E6%9C%BA/</id>
+        <title>联想G460电脑装机</title>
+        <link rel="alternate" href="http://example.com/2021/10/05/%E8%81%94%E6%83%B3G460%E7%94%B5%E8%84%91%E8%A3%85%E6%9C%BA/"/>
+        <content type="html">&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
+</content>
+        <category term="win" />
+        <category term="联想" />
+        <category term="系统兼容" />
+        <category term="装机" />
+        <updated>2021-10-05T09:59:30.000Z</updated>
+    </entry>
+</feed>

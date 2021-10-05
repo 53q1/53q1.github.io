@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "飞鸟 • All posts by \"装机\" tag",
+    "description": "北海的小窝",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2021/10/05/%E8%81%94%E6%83%B3G460%E7%94%B5%E8%84%91%E8%A3%85%E6%9C%BA/",
+            "url": "http://example.com/2021/10/05/%E8%81%94%E6%83%B3G460%E7%94%B5%E8%84%91%E8%A3%85%E6%9C%BA/",
+            "title": "联想G460电脑装机",
+            "date_published": "2021-10-05T09:59:30.000Z",
+            "content_html": "<h3 id=\"\"><a class=\"markdownIt-Anchor\" href=\"#\">#</a> </h3>\n",
+            "tags": [
+                "win",
+                "联想",
+                "系统兼容",
+                "装机"
+            ]
+        }
+    ]
+}
