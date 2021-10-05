@@ -9,7 +9,7 @@
             "url": "http://example.com/2021/10/05/%E8%81%94%E6%83%B3G460%E7%94%B5%E8%84%91%E8%A3%85%E6%9C%BA/",
             "title": "联想G460电脑装机",
             "date_published": "2021-10-05T09:59:30.000Z",
-            "content_html": "<h3 id=\"\"><a class=\"markdownIt-Anchor\" href=\"#\">#</a> </h3>\n",
+            "content_html": "<h2 id=\"前言\"><a class=\"markdownIt-Anchor\" href=\"#前言\">#</a> 前言</h2>\n<p>一个朋友的电脑 G460 觉得太卡，我就和他一块给电脑升级了一下下。朋友真是太好了，然后就被喂食了，嘤嘤嘤，朋友真好。</p>\n<h2 id=\"装机过程\"><a class=\"markdownIt-Anchor\" href=\"#装机过程\">#</a> 装机过程</h2>\n<h3 id=\"电脑初始配置\"><a class=\"markdownIt-Anchor\" href=\"#电脑初始配置\">#</a> 电脑初始配置</h3>\n<p>联想 lenovo G460 20041 笔记本电脑<br>\n处理器 英特尔 core i5 m540 @2.53GHZ 双核笔记本处理器<br>\n主板 联想（英特尔 HM55 芯片组）<br>\n内存 2G（三星 ddr3 1333MHZ）<br>\n主显卡 N G 310M（512M、联想）</p>\n<h3 id=\"更换内容\"><a class=\"markdownIt-Anchor\" href=\"#更换内容\">#</a> 更换内容</h3>\n<p>内存增加同型号 4G 内存条，注意三星 1333MHZ 电压 1.5V<br>\n 硬盘更换 威刚 240G 固态</p>\n<h2 id=\"总结\"><a class=\"markdownIt-Anchor\" href=\"#总结\">#</a> 总结</h2>\n<p>1. 这个电脑就是为 win7 系统而生的。分辨尝试了 win10 和 win7 32 位系统，最后还是安装了 64 位旗舰版。安装 win10 似乎天然不兼容，非常卡，换成 32 位 win7 识别不了 6G 内存。还有，这个电脑不适合安装固态，固态性能发挥不出来。实际安装系统向内部拷入镜像发现最高跑 27-28M 的样子，很可惜。<br>\n2. 显示器更新有问题，有时候可能会出现屏幕不显示的状况，实属正常（cd）。<br>\n3. 系统安装只能识别 MBR 分区，安装系统的时候一定要注意，联想的老式电脑，GPT 会报错。<br>\n4. 快捷键 FN+F12 选择启动盘。<br>\n5.bios 设置可能会引起系统不正常，bios 恢复默认就可以解决。</p>\n<p>更新时间：2021 年 10 月 5 日</p>\n",
             "tags": [
                 "win",
                 "联想",
